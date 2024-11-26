@@ -83,5 +83,5 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@v3
       with:
-        name:x-wrt-24.01_b202411261637=ramips-mt7620
+        name: x-wrt-24.01_b202411261637=ramips-mt7620
         path: x-wrt/rom/
